@@ -1,0 +1,10 @@
+name: fCMIEInjector
+version: '1.0-SNAPSHOT'
+main: me.naulbimix.fCMIEInjector.Bootstrap
+author: NaulbiMIX
+authors:
+  - NaulbiMIX
+  - Zrips
+api-version: '1.13'
+load: STARTUP
+depend: [Vault, CMI]
